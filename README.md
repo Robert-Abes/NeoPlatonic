@@ -1,2 +1,3 @@
 # NeoPlatonic
-Puzzles, Games, Disruptive ideas 
+Puzzles, Games, Disruptive ideas.
+ 
